@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hasan Fırat</h1>
 <h3 align="center">I am a junior computer science student at Sabanci University.</h3>
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hfyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="hfyilmaz" /> </p>
+
+<div align="center">
+  <img alt="Coding" width="200" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952ihdgxegi32bkhst7lii1cff5yqqoc8ujdum4dbmf&ep=v1_gifs_search&rid=200w.gif&ct=g">
+</div>
+
+<hr>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div align="center">
@@ -32,8 +36,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hfyilmaz&show_icons=true&locale=en&layout=compact" alt="hfyilmaz" /></p>
-<br><br>
-<br><br>
-<br><br>
-<p><a href="https://www.buymeacoffee.com/hasanfiraty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35.7" width="150" alt="hasanfiraty" /></a></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hfyilmaz&show_icons=true&locale=en&layout=compact" alt="hfyilmaz" /></p>
+  <br></br>
+</div>
+<p><a href="https://www.buymeacoffee.com/hasanfiraty"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35.7" width="150" alt="hasanfiraty" /></a></p>
