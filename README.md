@@ -5,7 +5,7 @@
 <img alt="Hi, I'm Hasan Fırat" src="https://readme-typing-svg.demolab.com?font=Jost&size=30&duration=2500&pause=1500&color=1AB429&background=FFFFFF00&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Hasan+F%C4%B1rat" >
 </div>
 <hr>
-<h3 align="center">Junior Computer Science student at Sabanci University.</h3>
+<h3 align="center">Senior Computer Science student at Sabanci University.</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hfyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="hfyilmaz" /> </p>
 
 <div align="center">
